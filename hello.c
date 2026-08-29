@@ -6,3 +6,6 @@ int main()
 	getch();
 	return 0;
 }
+
+Output :
+Hello World...!!
