@@ -14,3 +14,11 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter 1st number : 23
+Enter 2nd number : 45
+Enter 3rd number : 12
+Largest : 45
+*/
