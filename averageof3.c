@@ -17,3 +17,12 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter 1st number : 56
+Enter 2nd number : 45
+Enter 3rd number : 51
+Sum : 152
+Average : 50.666668
+*/
