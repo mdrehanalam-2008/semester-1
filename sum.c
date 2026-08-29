@@ -12,3 +12,8 @@ int main()
 	getch();
 	return 0;
 }
+
+Output:
+Enter first number :67
+Enter first number :45
+Sum : 112
