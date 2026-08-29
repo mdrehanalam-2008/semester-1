@@ -10,3 +10,9 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter the number : 67
+3 times shift right of the given number : 8
+*/
