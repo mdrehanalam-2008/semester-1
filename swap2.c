@@ -16,3 +16,12 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter A : 12
+Enter B : 5
+After swapping :
+A : 5
+B : 12
+*/
