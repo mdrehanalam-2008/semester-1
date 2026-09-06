@@ -2,12 +2,17 @@
 #include<conio.h>
 int main()
 {
-	int f;
-	float c;
+	float f,c;
 	printf("Enter temperature in Farenheit : ");
-	scanf("%d",&f);
+	scanf("%f",&f);
 	c=(f-32)/1.8;
 	printf("Temperature in Celcius : %g\n",c);
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter temperature in Farenheit : 98.8
+Temperature in Celcius : 37.1111
+*/
