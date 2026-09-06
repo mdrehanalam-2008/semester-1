@@ -14,3 +14,11 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter the length of rectangle : 8
+Enter the breadth of rectangle : 6
+Perimeter of the rectangle : 28
+Area of the rectangle : 48
+*/
