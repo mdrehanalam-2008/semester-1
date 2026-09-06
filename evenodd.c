@@ -12,3 +12,9 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter the number : 67
+Odd number...
+*/
