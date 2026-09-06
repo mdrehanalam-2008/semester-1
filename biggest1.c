@@ -14,3 +14,10 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter 1st number : 76
+Enter 2nd number : 91
+Bigger number : 91
+*/
