@@ -12,3 +12,9 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter the year : 2400
+It's a Leap year...
+*/
