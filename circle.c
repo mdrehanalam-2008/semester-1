@@ -12,3 +12,10 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+Output:
+Enter the radius of the circle : 10
+Perimeter of the circle : 62.8
+Area of the circle : 314
+*/
